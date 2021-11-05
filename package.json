@@ -1,0 +1,27 @@
+{
+  "name": "mongo-authentication",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bernatfogarasi/node-mongo-authentication.git"
+  },
+  "author": "Bernat Fogarasi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bernatfogarasi/node-mongo-authentication/issues"
+  },
+  "homepage": "https://github.com/bernatfogarasi/node-mongo-authentication#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.12"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
