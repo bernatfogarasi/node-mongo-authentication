@@ -1,1 +1,1 @@
-# node-mongodb-authentication
+# node-mongo-authentication
